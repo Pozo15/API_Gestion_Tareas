@@ -20,30 +20,6 @@ Sistema de gestión de tareas que permite:
 - **BCrypt** - Hash de contraseñas
 - **Swagger** - Documentación de la API
 
-## Estructura del Proyecto
-
-```
-MiPrimeraAPI/
-├── Controllers/          # Endpoints de la API
-│   ├── AuthController.cs       # Login y Registro
-│   ├── UsuariosController.cs   # CRUD Usuarios
-│   ├── TareasController.cs     # CRUD Tareas
-│   └── CategoriasController.cs # CRUD Categorías
-├── Data/
-│   └── AppDbContext.cs    # Contexto de base de datos
-├── Filters/
-│   └── GlobalExceptionFilter.cs # Manejo de errores
-├── Models/
-│   ├── Usuario.cs         # Modelo de Usuario
-│   ├── Tarea.cs           # Modelo de Tarea
-│   ├── Categoria.cs       # Modelo de Categoría
-│   └── LoginModel.cs      # Modelo para Login
-├── Services/
-│   └── JwtService.cs      # Servicio JWT
-├── Migrations/            # Migraciones de EF Core
-├── Program.cs             # Configuración principal
-└── appsettings.json       # Configuración de la aplicación
-```
 
 ## Requisitos
 

@@ -187,4 +187,5 @@ Authorization: Bearer [tu_token]
 
 
 Edwin Pozo - 2026
+
 Este proyecto es académico.

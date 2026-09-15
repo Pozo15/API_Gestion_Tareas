@@ -174,7 +174,7 @@ Agregar el header de autorización:
 Authorization: Bearer [tu_token]
 ```
 
-## Temas Aprendidos
+## Temas Aplicados
 
 - [x] Arquitectura de APIs REST
 - [x] Entity Framework Core y Migraciones
@@ -185,10 +185,6 @@ Authorization: Bearer [tu_token]
 - [x] LINQ (consultas)
 - [x] Git y GitHub
 
-## Autor
 
 Edwin Pozo - 2026
-
-## Licencia
-
-Este proyecto es academico.
+Este proyecto es académico.
